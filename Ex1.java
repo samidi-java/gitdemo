@@ -13,6 +13,7 @@ public class Ex1 {
 		{
 			System.out.println("s1 and s2 are not same");
 		}
+System.out.println("bye");
 
 	}
 
